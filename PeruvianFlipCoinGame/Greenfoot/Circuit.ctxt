@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=Circuit
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Circuit\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\n\ Act\ -\ do\ whatever\ the\ Circuit\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+comment10.params=boolinput
+comment10.target=boolean[]\ circuit1(boolean[])
+comment2.params=
+comment2.target=Circuit()
+comment3.params=inputString
+comment3.target=java.lang.String\ endcodeBits(java.lang.String)
+comment4.params=boolinput
+comment4.target=boolean[]\ randomSelection(boolean[])
+comment5.params=boolinput\ circuitNumber
+comment5.target=boolean[]\ testerfunction(boolean[],\ int)
+comment6.params=boolinput
+comment6.target=boolean[]\ circuit5(boolean[])
+comment7.params=boolinput
+comment7.target=boolean[]\ circuit4(boolean[])
+comment8.params=boolinput
+comment8.target=boolean[]\ circuit3(boolean[])
+comment9.params=boolinput
+comment9.target=boolean[]\ circuit2(boolean[])
+numComments=11

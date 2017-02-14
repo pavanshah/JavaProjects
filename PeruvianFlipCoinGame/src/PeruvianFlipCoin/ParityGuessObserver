@@ -1,0 +1,7 @@
+public class ParityGuessObserver {
+	
+	river gameDriver = Driver.getInstance();
+
+	public String observerState ="";
+
+}

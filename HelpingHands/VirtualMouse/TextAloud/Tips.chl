@@ -1,0 +1,46 @@
+<tips>44</tips>
+<tips0>The best voices available are not included in the trial version. Be sure to check out the optional AT&T Natural Voices and listen to samples of the best sounding computer voices ever.</tips0>
+<tips1>TextAloud in schools can improve reading skills, improve writing through audio proofreading, and help with learning new languages.</tips1>
+<tips2>You can use Tools -> Event Setup to configure various actions for TextAloud events.  For example, an event can be configured to speak articles automatically as text is imported to TextAloud.</tips2>
+<tips3>Pausing your mouse over a toolbar button at the top of the window will display a popup hint explaining what each button does.</tips3>
+<tips4>You can enable the option Tools -> Watch Clipboard to have TextAloud monitor the Windows Clipboard for changes.</tips4>
+<tips5>You can enable the option Tools -> Watch Mouse to have TextAloud monitor your mouse as you select text.</tips5>
+<tips6>When the TextAloud main window is minimized, a System Tray Icon near your system clock provides a right-click menu of common functions.</tips6>
+<tips7>You can purchase your copy of TextAloud by clicking Help -> Purchase.  You can purchase over the web, by phone, fax, or even mail order.</tips7>
+<tips8>We would love to hear what you think of TextAloud, and are always available to help with any problems or questions you have.  Click Help -> Support, or email us at support@nextup.com.</tips8>
+<tips9>You can view the TextAloud help file by clicking Help -> Contents.</tips9>
+<tips10>You can try our other talking products free by clicking Help -> Support -> Visit NextUp.com or by going to www.NextUp.com.</tips10>
+<tips11>You can bring up this tip window at any time by clicking Help -> Tip Of The Day.</tips11>
+<tips12>You can configure the display of Article Tabs in the TextAloud main window.  Click Tools -> TextAloud Options and select the Font tab. Select "Article Tabs" in the Font dropdown to configure the font, text size and colors used for the tabs.</tips12>
+<tips13>You can ask us questions at support@nextup.com and we'll answer faster than you can believe. Try It!</tips13>
+<tips14>Both the Clipboard and Mouse Speak monitors are configurable. Click Tools -> Clipboard and Mouse Speak Options from the TextAloud menu.</tips14>
+<tips15>Pauses can be generated automatically at end of sentence or end of paragraph. See Tools -> Pauses and Text Insertions for configuring automatic insertion of pauses, free form text, and audio clips.</tips15>
+<tips16>You can change the look-and-feel of the TextAloud application by using Skins. Click View -> Skins from the TextAloud menu.</tips16>
+<tips17>Toolbar button sizes can be configured by selecting View -> Toolbar Options -> Toolbar Button Size</tips17>
+<tips18>There are several toolbars available other than the ones displayed by default.  To see all available toolbars, click View -> Toolbar Options -> Toolbars</tips18>
+<tips19>You can define bookmarks in TextAloud articles using Insert Tags -> Add Bookmark from the menu</tips19>
+<tips20>File -> Open can read text, Microsoft Word, WordPerfect, Open Office, RTF, PDF, HTML and XML Documents into TextAloud.</tips20>
+<tips21>You can change the foreground and background colors for TextAloud articles.  Click Tools -> TextAloud Options, and select the Font tab.</tips21>
+<tips22>You can set up shortcuts for commonly used TextAloud menu entries. Click Tools -> Shortcut Setup.</tips22>
+<tips23>You can define system-wide hotkeys to speak text from other applications and add articles to TextAloud, bypassing the Windows Clipboard.  See HotKey Setup under the Tools menu.</tips23>
+<tips24>You can set up a hotkey for Proofreading Documents. See Hotkey Setup under the Tools menu.</tips24>
+<tips25>You can load very large text files into TextAloud as multiple articles by using the File Splitter Utility, located under the Tools menu.</tips25>
+<tips26>You can insert pauses into TextAloud articles. Position the cursor to a place in the text where you would like to insert a pause. Then right click, select Pause from the popup menu, and select either a predefined pause or user defined pause value.</tips26>
+<tips27>When listening to text, you can skip forward and backward in the article.  Click Navigations -> Within Article Navigations.</tips27>
+<tips28>You can press F1 from any window in TextAloud and display help for that window.</tips28>
+<tips29>You can choose different encodings for writing audio files.  Click Tools -> Audio File Options, and select an Audio File Format on the File Options tab.</tips29>
+<tips30>You can make corrections to word proununciations using Pronunciation Dictionary Maintenance, located under the Tools menu.</tips30>
+<tips31>Pronunciation Dictionary Maintenance supports Masks and Regular Expressions. See the TextAloud online Help for details.</tips31>
+<tips32>For long articles, you can listen to text starting from any position in the article. Position the cursor and select Speak From Cursor Aloud from the right click popup menu.</tips32>
+<tips33>You can create articles in TextAloud by selecting text in an application, and dragging the text onto the TextAloud main window.</tips33>
+<tips34>You can create articles in TextAloud by dragging files from Windows Explorer on to the TextAloud main window.</tips34>
+<tips35>You can create articles in TextAloud by right clicking files in Windows Explorer and selecting "Open With TextAloud" from the popoup menu.</tips35>
+<tips36>You can use the Navigations menu to skip within articles and skip between articles</tips36>
+<tips37>System wide hotkeys can be assigned to items in the TextAloud main menu, such as Pause and Stop.  Click Tools -> Advanced Toolbar Customization.</tips37>
+<tips38>You can have TextAloud repeat speaking an article or selected text indefinitely.  Use the "Loop Speak" functions under the Speak menu.</tips38>
+<tips39>TextAloud can spell check your article text.  Spell check options are located under the Tools menu.</tips39>
+<tips40>You can archive deleted articles, and unarchive them if needed.  Archiving options are located on the TextAloud Options panel.</tips40>
+<tips41>You can change the title of an article by double clicking the tab above the article.</tips41>
+<tips42>You can change the ordering of articles in the TextAloud window by clicking an article tab, and dragging it to a new position.</tips42>
+<tips43>You can lookup the definitions of English words in TextAloud articles and have the definition spoken aloud.  Select any word in an article, right click, and select English Dictionary Lookup" from the popup menu.</tips43>
+

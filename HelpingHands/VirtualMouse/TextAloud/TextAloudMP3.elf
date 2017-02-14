@@ -1,0 +1,290 @@
+EurekaLog 6.1.04
+
+Application:
+-------------------------------------------------------
+  1.1 Start Date      : Sun, 23 Mar 2014 11:56:11 +0500
+  1.2 Name/Description: TextAloudMP3.exe
+  1.3 Version Number  : 3.0.44.0
+  1.4 Parameters      : 
+  1.5 Compilation Date: Fri, 20 Jul 2012 02:12:14 +0500
+  1.6 Up Time         : 0 second
+
+Exception:
+-------------------------------------------------------
+  2.1 Date          : Sun, 23 Mar 2014 11:56:11 +0500
+  2.2 Address       : 0051F29C
+  2.3 Module Name   : TextAloudMP3.exe
+  2.4 Module Version: 3.0.44.0
+  2.5 Type          : EOleSysError
+  2.6 Message       : Error accessing the OLE registry.
+  2.7 ID            : 0555
+  2.8 Count         : 1
+  2.9 Status        : New
+  2.10 Note         : 
+
+User:
+-------------------------------------------------------
+  3.1 ID        : hp-pc
+  3.2 Name      : hp-pc
+  3.3 Email     : 
+  3.4 Company   : Hewlett-Packard
+  3.5 Privileges: SeShutdownPrivilege             - OFF
+                  SeChangeNotifyPrivilege         - ON
+                  SeUndockPrivilege               - OFF
+                  SeIncreaseWorkingSetPrivilege   - OFF
+                  SeTimeZonePrivilege             - OFF
+
+Active Controls:
+----------------------------------
+  4.1 Form Class   : CabinetWClass
+  4.2 Form Text    : TextAloud
+  4.3 Control Class: 
+  4.4 Control Text : 
+
+Computer:
+-------------------------------------------------------------------------------------
+  5.1 Name          : HP
+  5.2 Total Memory  : 3866 Mb
+  5.3 Free Memory   : 2219 Mb
+  5.4 Total Disk    : 906.06 Gb
+  5.5 Free Disk     : 845.06 Gb
+  5.6 System Up Time: 1 day, 1 hour, 2 minutes, 55 seconds
+  5.7 Processor     : Intel(R) Core(TM) i5-4200U CPU @ 1.60GHz
+  5.8 Display Mode  : 1366 x 768, 32 bit
+  5.9 Display DPI   : 96
+  5.10 Video Card   : Intel(R) HD Graphics Family (driver 9.18.10.3224 - RAM 1709 MB)
+  5.11 Printer      : HP ePrint (driver 6.2.9200.16451)
+
+Operating System:
+----------------------------------------------
+  6.1 Type    : Microsoft Windows 6.2 (64 bit)
+  6.2 Build # : 9200
+  6.3 Update  : 
+  6.4 Language: English
+  6.5 Charset : 0
+
+Network:
+---------------------------------------------------
+  7.1 IP Address: 192.168.006.207 - 000.000.000.000
+  7.2 Submask   : 255.255.255.000 - 000.000.000.000
+  7.3 Gateway   : 192.168.006.001 - 192.168.000.001
+  7.4 DNS 1     : 000.000.000.000 - 000.000.000.000
+  7.5 DNS 2     : 000.000.000.000 - 000.000.000.000
+  7.6 DHCP      : OFF             - OFF            
+
+Call Stack Information:
+------------------------------------------------------------------------------
+|Address |Module          |Unit            |Class|Procedure/Method   |Line   |
+------------------------------------------------------------------------------
+|*Exception Thread: ID=2100; Priority=0; Class=; [Main]                      |
+|----------------------------------------------------------------------------|
+|0051F29C|TextAloudMP3.exe|                |     |                   |       |
+|008DD15E|TextAloudMP3.exe|TextAloudMP3.dpr|     |                   |170[27]|
+|761C850B|KERNEL32.DLL    |                |     |BaseThreadInitThunk|       |
+------------------------------------------------------------------------------
+
+Modules Information:
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+|Handle  |Name                |Description                                     |Version            |Size    |Modified           |Path                                                                                                          |
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+|00230000|tamousehook.dll     |                                                |3.0.4.0            |54096   |2010-12-23 12:12:52|C:\Users\hp-pc\Desktop\OT\VirtualMouse\TextAloud                                                              |
+|00400000|TextAloudMP3.exe    |                                                |3.0.44.0           |4606320 |2012-07-19 17:18:02|C:\Users\hp-pc\Desktop\OT\VirtualMouse\TextAloud                                                              |
+|031E0000|tv_enua.dll         |L&H English TruVoice TTS                        |6.0.0.10           |1276416 |1998-09-30 10:09:20|C:\Windows\lhsp\tv                                                                                            |
+|10100000|basswma.dll         |BASSWMA                                         |2.4.4.0            |17472   |2010-09-17 14:28:26|C:\Users\hp-pc\Desktop\OT\VirtualMouse\TextAloud                                                              |
+|10300000|bassenc.dll         |BASSenc                                         |2.4.9.0            |16448   |2012-02-03 16:12:32|C:\Users\hp-pc\Desktop\OT\VirtualMouse\TextAloud                                                              |
+|10500000|bassmix.dll         |BASSmix                                         |2.4.6.0            |17984   |2011-09-26 14:18:36|C:\Users\hp-pc\Desktop\OT\VirtualMouse\TextAloud                                                              |
+|11000000|bass.dll            |BASS                                            |2.4.8.1            |105016  |2011-09-06 13:47:40|C:\Users\hp-pc\Desktop\OT\VirtualMouse\TextAloud                                                              |
+|63550000|Speech.dll          |Microsoft Speech                                |4.0.4.2512         |562176  |1999-01-12 15:19:12|C:\Windows\speech                                                                                             |
+|67110000|olepro32.dll        |                                                |6.2.9200.16384     |79360   |2012-07-26 08:49:40|C:\Windows\SYSTEM32                                                                                           |
+|68400000|oleacc.dll          |Active Accessibility Core Component             |7.2.9200.16384     |314880  |2012-07-26 08:49:40|C:\Windows\SYSTEM32                                                                                           |
+|6A2C0000|LAME_ENC.DLL        |                                                |                   |495104  |2010-03-23 10:05:18|C:\Users\hp-pc\Desktop\OT\VirtualMouse\TextAloud                                                              |
+|6A380000|hhctrl.ocx          |Microsoft® HTML Help Control                    |6.2.9200.16384     |515072  |2012-07-26 08:51:06|C:\Windows\SYSTEM32                                                                                           |
+|6C740000|shfolder.dll        |Shell Folder Service                            |6.2.9200.16384     |7680    |2012-07-26 08:50:00|C:\Windows\SYSTEM32                                                                                           |
+|70060000|sxs.dll             |Fusion 2.5                                      |6.2.9200.16384     |641536  |2012-07-26 08:50:06|C:\Windows\SYSTEM32                                                                                           |
+|72E90000|gdiplus.dll         |Microsoft GDI+                                  |6.2.9200.16518     |1437184 |2013-07-21 07:35:44|C:\Windows\WinSxS\x86_microsoft.windows.gdiplus_6595b64144ccf1df_1.1.9200.16518_none_ba1cf6b7e09f1918         |
+|730C0000|mswsock.dll         |Microsoft Windows Sockets 2.0 Service Provider  |6.2.9200.16433     |289280  |2013-07-21 07:17:12|C:\Windows\SYSTEM32                                                                                           |
+|73190000|midimap.dll         |Microsoft MIDI Mapper                           |6.2.9200.16384     |17920   |2012-07-26 08:49:02|C:\Windows\SYSTEM32                                                                                           |
+|731A0000|msacm32.drv         |Microsoft Sound Mapper                          |6.2.9200.16384     |21504   |2012-07-26 08:47:46|C:\Windows\SYSTEM32                                                                                           |
+|731B0000|powrprof.dll        |Power Profile Helper DLL                        |6.2.9200.16384     |244736  |2012-07-26 08:49:44|C:\Windows\SYSTEM32                                                                                           |
+|732A0000|AUDIOSES.DLL        |Audio Session                                   |6.2.9200.16578     |324368  |2013-07-21 07:41:52|C:\Windows\SYSTEM32                                                                                           |
+|73380000|AVRT.dll            |Multimedia Realtime Runtime                     |6.2.9200.16420     |23656   |2013-07-21 07:04:16|C:\Windows\SYSTEM32                                                                                           |
+|73390000|wdmaud.drv          |Winmm  audio system driver                      |6.2.9200.16384     |172032  |2012-07-26 08:47:46|C:\Windows\SYSTEM32                                                                                           |
+|733C0000|MMDevAPI.DLL        |MMDevice API                                    |6.2.9200.16420     |307192  |2013-07-21 07:04:10|C:\Windows\SYSTEM32                                                                                           |
+|73580000|ksuser.dll          |User CSA Library                                |6.2.9200.16384     |14336   |2012-07-26 09:04:28|C:\Windows\SYSTEM32                                                                                           |
+|73630000|dwmapi.dll          |Microsoft Desktop Window Manager API            |6.2.9200.16384     |92160   |2012-07-26 08:48:24|C:\Windows\SYSTEM32                                                                                           |
+|73670000|uxtheme.dll         |Microsoft UxTheme Library                       |6.2.9200.16843     |534528  |2014-02-23 09:36:34|C:\Windows\system32                                                                                           |
+|73B80000|msimg32.dll         |GDIEXT Client DLL                               |6.2.9200.16384     |5120    |2012-07-26 08:49:14|C:\Windows\SYSTEM32                                                                                           |
+|73BF0000|wsock32.dll         |Windows Socket 32-Bit DLL                       |6.2.9200.16384     |15872   |2012-07-26 08:50:40|C:\Windows\SYSTEM32                                                                                           |
+|73C00000|WINMMBASE.dll       |Base Multimedia Extension API DLL               |6.2.9200.16645     |160256  |2013-06-19 04:08:02|C:\Windows\SYSTEM32                                                                                           |
+|73C30000|msacm32.dll         |Microsoft ACM Audio Filter                      |6.2.9200.16384     |71680   |2012-07-26 08:49:08|C:\Windows\SYSTEM32                                                                                           |
+|74210000|winmm.dll           |MCI API DLL                                     |6.2.9200.16642     |125440  |2013-06-19 04:08:02|C:\Windows\SYSTEM32                                                                                           |
+|74260000|comctl32.dll        |Common Controls Library                         |5.82.9200.16657    |541696  |2013-07-04 07:43:52|C:\Windows\WinSxS\x86_microsoft.windows.common-controls_6595b64144ccf1df_5.82.9200.16658_none_bf1359a245f1cd12|
+|742F0000|winspool.drv        |Windows Spooler Driver                          |6.2.9200.16384     |379904  |2012-07-26 08:47:46|C:\Windows\SYSTEM32                                                                                           |
+|74430000|version.dll         |Version Checking and File Installation Libraries|6.2.9200.16384     |16384   |2012-07-26 08:50:14|C:\Windows\SYSTEM32                                                                                           |
+|74440000|SHCORE.DLL          |SHCORE                                          |6.2.9200.16751     |452608  |2013-10-28 09:35:54|C:\Windows\SYSTEM32                                                                                           |
+|744C0000|bcryptPrimitives.dll|Windows Cryptographic Primitives Library        |6.2.9200.16384     |331952  |2012-07-26 10:56:48|C:\Windows\SYSTEM32                                                                                           |
+|74520000|CRYPTBASE.dll       |Base cryptographic API DLL                      |6.2.9200.16384     |21504   |2012-07-26 08:48:10|C:\Windows\SYSTEM32                                                                                           |
+|74530000|SspiCli.dll         |Security Support Provider Interface             |6.2.9200.16420     |98816   |2013-07-21 07:04:10|C:\Windows\SYSTEM32                                                                                           |
+|74570000|msvcrt.dll          |Windows NT CRT DLL                              |7.0.9200.16384     |709632  |2012-07-26 08:49:18|C:\Windows\SYSTEM32                                                                                           |
+|74630000|KERNELBASE.dll      |Windows NT BASE API Client DLL                  |6.2.9200.16451     |665600  |2013-07-21 07:22:00|C:\Windows\SYSTEM32                                                                                           |
+|746E0000|shell32.dll         |Windows Shell Common Dll                        |6.2.9200.16774     |17560576|2013-12-07 10:45:38|C:\Windows\SYSTEM32                                                                                           |
+|757B0000|clbcatq.dll         |COM+ Configuration Catalog                      |2001.12.10130.16384|454656  |2012-07-26 08:48:06|C:\Windows\SYSTEM32                                                                                           |
+|75850000|DEVOBJ.dll          |Device Information Set DLL                      |6.2.9200.16384     |120200  |2012-07-26 09:08:12|C:\Windows\SYSTEM32                                                                                           |
+|75870000|advapi32.dll        |Advanced Windows 32 Base API                    |6.2.9200.16384     |702464  |2012-07-26 08:47:50|C:\Windows\SYSTEM32                                                                                           |
+|75920000|combase.dll         |Microsoft COM for Windows                       |6.2.9200.16420     |1247232 |2013-07-21 07:04:02|C:\Windows\SYSTEM32                                                                                           |
+|75A60000|PSAPI.DLL           |Process Status Helper                           |6.2.9200.16384     |7168    |2012-07-26 08:49:48|C:\Windows\SYSTEM32                                                                                           |
+|75EE0000|MSCTF.dll           |MSCTF Server DLL                                |6.2.9200.16578     |893952  |2013-04-10 03:59:52|C:\Windows\SYSTEM32                                                                                           |
+|75FC0000|SHLWAPI.dll         |Shell Light-weight Utility Library              |6.2.9200.16384     |246784  |2012-07-26 08:50:00|C:\Windows\SYSTEM32                                                                                           |
+|76000000|comdlg32.dll        |Common Dialogs DLL                              |6.2.9200.16384     |539136  |2012-07-26 08:48:08|C:\Windows\SYSTEM32                                                                                           |
+|760F0000|IMM32.DLL           |Multi-User Windows IMM32 API Client DLL         |6.2.9200.16384     |121344  |2012-07-26 07:57:30|C:\Windows\system32                                                                                           |
+|761A0000|KERNEL32.DLL        |Windows NT BASE API Client DLL                  |6.2.9200.16627     |974848  |2013-05-31 04:38:28|C:\Windows\SYSTEM32                                                                                           |
+|76330000|cfgmgr32.dll        |Configuration Manager DLL                       |6.2.9200.16384     |284456  |2012-07-26 09:08:12|C:\Windows\SYSTEM32                                                                                           |
+|76380000|NSI.dll             |NSI User-mode interface DLL                     |6.2.9200.16384     |12800   |2012-07-26 10:56:50|C:\Windows\SYSTEM32                                                                                           |
+|76590000|user32.dll          |Multi-User Windows USER API Client DLL          |6.2.9200.16420     |1126912 |2013-07-21 07:03:58|C:\Windows\SYSTEM32                                                                                           |
+|766B0000|ole32.dll           |Microsoft OLE for Windows                       |6.2.9200.16451     |1150160 |2013-07-21 07:22:00|C:\Windows\SYSTEM32                                                                                           |
+|767D0000|sechost.dll         |Host for SCM/SDDL/LSA Lookup APIs               |6.2.9200.16384     |199168  |2012-07-26 08:49:54|C:\Windows\SYSTEM32                                                                                           |
+|769A0000|gdi32.dll           |GDI Client DLL                                  |6.2.9200.16728     |1022976 |2013-10-02 03:52:20|C:\Windows\SYSTEM32                                                                                           |
+|76AA0000|RPCRT4.dll          |Remote Procedure Call Runtime                   |6.2.9200.16622     |694272  |2013-05-24 03:55:24|C:\Windows\SYSTEM32                                                                                           |
+|76B50000|WS2_32.dll          |Windows Socket 2.0 32-Bit DLL                   |6.2.9200.16384     |310784  |2012-07-26 08:50:40|C:\Windows\SYSTEM32                                                                                           |
+|76BA0000|oleaut32.dll        |                                                |6.2.9200.16726     |551424  |2013-09-28 09:28:46|C:\Windows\SYSTEM32                                                                                           |
+|76F00000|ntdll.dll           |NT Layer DLL                                    |6.2.9200.16578     |1408896 |2013-07-21 07:41:52|C:\Windows\SYSTEM32                                                                                           |
+|780C0000|MSVCP50.dll         |Microsoft (R) C++ Runtime Library               |5.0.0.7022         |565760  |1997-01-22 21:26:26|C:\Windows\SYSTEM32                                                                                           |
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Processes Information:
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+|ID  |Name                        |Description                                       |Version        |Memory|Priority    |Threads|Path                                                            |
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+|0   |[System Process]            |                                                  |               |0     |            |4      |                                                                |
+|4   |System                      |                                                  |               |0     |Normal      |135    |                                                                |
+|308 |smss.exe                    |                                                  |               |0     |Above-Normal|2      |                                                                |
+|464 |csrss.exe                   |                                                  |               |0     |High        |9      |                                                                |
+|468 |LMS.exe                     |                                                  |               |0     |Normal      |5      |                                                                |
+|480 |svchost.exe                 |Host Process for Windows Services                 |6.2.9200.16420 |0     |Normal      |21     |                                                                |
+|560 |wininit.exe                 |                                                  |               |0     |High        |2      |                                                                |
+|688 |services.exe                |                                                  |               |0     |Normal      |9      |                                                                |
+|696 |lsass.exe                   |                                                  |               |0     |Normal      |9      |                                                                |
+|804 |svchost.exe                 |Host Process for Windows Services                 |6.2.9200.16420 |0     |Normal      |10     |                                                                |
+|824 |svchost.exe                 |Host Process for Windows Services                 |6.2.9200.16420 |0     |Normal      |21     |                                                                |
+|860 |svchost.exe                 |Host Process for Windows Services                 |6.2.9200.16420 |0     |Normal      |13     |                                                                |
+|912 |atiesrxx.exe                |                                                  |               |0     |Normal      |5      |                                                                |
+|944 |svchost.exe                 |Host Process for Windows Services                 |6.2.9200.16420 |0     |Normal      |28     |                                                                |
+|1020|svchost.exe                 |Host Process for Windows Services                 |6.2.9200.16420 |0     |Normal      |39     |                                                                |
+|1060|unsecapp.exe                |                                                  |               |0     |Normal      |3      |                                                                |
+|1096|hpservice.exe               |                                                  |               |0     |Normal      |4      |                                                                |
+|1124|RTKAUDIOSERVICE64.EXE       |                                                  |               |0     |Normal      |5      |                                                                |
+|1180|svchost.exe                 |Host Process for Windows Services                 |6.2.9200.16420 |0     |Normal      |16     |                                                                |
+|1208|svchost.exe                 |Host Process for Windows Services                 |6.2.9200.16420 |0     |Normal      |22     |                                                                |
+|1264|NPAV4.EXE                   |                                                  |2013.5.17.0    |0     |Normal      |2      |C:\Program Files (x86)\Net Protector 2014                       |
+|1356|BlueSoleilCS.exe            |                                                  |               |0     |Normal      |5      |                                                                |
+|1436|hkcmd.exe                   |                                                  |               |0     |Normal      |2      |                                                                |
+|1576|hpqwmiex.exe                |                                                  |               |0     |Normal      |5      |                                                                |
+|1636|AERTSr64.exe                |                                                  |               |0     |Normal      |3      |                                                                |
+|1716|APCONSVC.EXE                |                                                  |               |0     |Normal      |8      |                                                                |
+|1840|spoolsv.exe                 |                                                  |               |0     |Normal      |15     |                                                                |
+|1928|svchost.exe                 |Host Process for Windows Services                 |6.2.9200.16420 |0     |Normal      |8      |                                                                |
+|1952|XTLSApp.exe                 |                                                  |               |0     |Normal      |11     |C:\Program Files (x86)\Mega Browse\bin                          |
+|2056|mDNSResponder.exe           |                                                  |               |0     |Normal      |4      |                                                                |
+|2092|CLMSMonitorServicePDVD12.exe|                                                  |               |0     |Normal      |4      |                                                                |
+|2132|jusched.exe                 |Java(TM) Platform SE binary                       |6.0.120.4      |0     |Normal      |4      |C:\Program Files (x86)\Java\jre6\bin                            |
+|2304|updateMegaBrowse.exe        |                                                  |               |0     |Normal      |8      |                                                                |
+|2332|YouCamService.exe           |CyberLink YouCam Service                          |5.0.2922.0     |0     |Normal      |8      |C:\Program Files (x86)\CyberLink\YouCam                         |
+|2368|HPWMISVC.exe                |                                                  |               |0     |Normal      |3      |                                                                |
+|2400|dasHost.exe                 |                                                  |               |0     |Normal      |3      |                                                                |
+|2424|TeamViewer_Service.exe      |                                                  |               |0     |Normal      |9      |                                                                |
+|2436|SynTPHelper.exe             |                                                  |               |0     |Above-Normal|1      |                                                                |
+|2532|svchost.exe                 |Host Process for Windows Services                 |6.2.9200.16420 |0     |Normal      |18     |                                                                |
+|2580|ouc.exe                     |                                                  |               |0     |Normal      |3      |                                                                |
+|2592|HeciServer.exe              |Intel(R) Capability Licensing Service Interface   |1.27.798.1     |0     |Normal      |3      |                                                                |
+|2884|NPPRTFRW.EXE                |                                                  |               |0     |Normal      |5      |                                                                |
+|2892|BsHelpCS.exe                |                                                  |               |0     |Normal      |3      |                                                                |
+|2940|NPProt.exe                  |                                                  |               |0     |Normal      |3      |                                                                |
+|3044|RaCheckBTDev.exe            |                                                  |               |0     |Normal      |2      |                                                                |
+|3068|svchost.exe                 |Host Process for Windows Services                 |6.2.9200.16420 |0     |Normal      |7      |                                                                |
+|3092|SearchIndexer.exe           |Microsoft Windows Search Indexer                  |7.0.9200.16578 |0     |Normal      |16     |                                                                |
+|3132|taskhost.exe                |                                                  |               |0     |Below-Normal|9      |                                                                |
+|3144|MOM.exe                     |Catalyst Control Center: Monitoring program       |2.0.0.0        |0     |Normal      |14     |                                                                |
+|3236|igfxsrvc.exe                |                                                  |               |0     |Normal      |3      |                                                                |
+|3248|AdobeIPCBroker.exe          |Adobe IPC Broker                                  |5.0.0.66       |0     |Normal      |6      |C:\Program Files (x86)\Common Files\Adobe\OOBE\PDApp\IPC        |
+|3276|SearchProtocolHost.exe      |Microsoft Windows Search Protocol Host            |7.0.9200.16578 |0     |Low         |9      |                                                                |
+|3380|HPSA_Service.exe            |                                                  |               |0     |Normal      |11     |                                                                |
+|3484|WmiPrvSE.exe                |WMI Provider Host                                 |6.2.9200.16518 |0     |Normal      |4      |                                                                |
+|3524|AccelerometerSt.exe         |                                                  |               |0     |Normal      |1      |                                                                |
+|3704|CLMLSvc_P2G8.exe            |CyberLink MediaLibray Service                     |8.0.0.608      |0     |Below-Normal|5      |C:\Program Files (x86)\CyberLink\Power2Go8                      |
+|3736|svchost.exe                 |Host Process for Windows Services                 |6.2.9200.16420 |0     |Normal      |4      |                                                                |
+|3780|WmiPrvSE.exe                |WMI Provider Host                                 |6.2.9200.16518 |0     |Normal      |5      |                                                                |
+|3892|ZVMOUNT.EXE                 |ZVMount                                           |2013.31.1.1    |0     |Normal      |1      |C:\Program Files (x86)\Net Protector 2014                       |
+|3960|CCC.exe                     |Catalyst Control Center: Host application         |3.5.0.0        |0     |Normal      |19     |                                                                |
+|4072|netbeans.exe                |                                                  |               |0     |Normal      |29     |C:\Program Files (x86)\NetBeans 7.1\bin                         |
+|4144|wmpnetwk.exe                |                                                  |               |0     |Normal      |11     |                                                                |
+|4148|HPMSGSVC.exe                |HP Message Service                                |1.0.4.0        |0     |Normal      |3      |C:\Program Files (x86)\Hewlett-Packard\HP System Event          |
+|4184|audiodg.exe                 |                                                  |               |0     |Normal      |4      |                                                                |
+|4240|taskhostex.exe              |                                                  |               |0     |Normal      |10     |                                                                |
+|4308|EMAILSCN.EXE                |Net Protector Total Internet Security             |13.2.21.1      |0     |Normal      |14     |C:\Program Files (x86)\Net Protector 2014\EMAIL SCAN            |
+|4404|csrss.exe                   |                                                  |               |0     |High        |11     |                                                                |
+|4444|SearchFilterHost.exe        |Microsoft Windows Search Filter Host              |7.0.9200.16578 |0     |Low         |8      |                                                                |
+|4496|IntelMeFWService.exe        |                                                  |               |0     |Normal      |3      |                                                                |
+|4536|CoolSense.exe               |HP CoolSense                                      |2.1.0.51       |0     |Below-Normal|3      |C:\Program Files (x86)\Hewlett-Packard\HP CoolSense             |
+|4844|Jhi_service.exe             |Intel(R) Dynamic Application Loader Host Interface|9.5.0.1428     |0     |Normal      |3      |                                                                |
+|4960|IAStorDataMgrSvc.exe        |                                                  |               |0     |Normal      |7      |                                                                |
+|5000|dwm.exe                     |                                                  |               |0     |High        |5      |                                                                |
+|5232|BtTray.exe                  |Bluetooth Application                             |11.0.738.0     |0     |Normal      |5      |C:\Program Files (x86)\Ralink Corporation\Ralink Bluetooth Stack|
+|5336|igfxpers.exe                |                                                  |               |0     |Normal      |3      |                                                                |
+|5508|CLMSServerPDVD12.exe        |                                                  |               |0     |Normal      |15     |                                                                |
+|5512|Creative Cloud.exe          |Adobe Creative Cloud                              |2.4.1.351      |0     |Normal      |31     |C:\Program Files (x86)\Adobe\Adobe Creative Cloud\ACC           |
+|5556|winlogon.exe                |                                                  |               |0     |High        |3      |                                                                |
+|5744|CoreSync.exe                |Core Sync                                         |1.1.4.15       |0     |Normal      |12     |C:\Program Files (x86)\Adobe\Adobe Creative Cloud\CoreSyncV1    |
+|6212|explorer.exe                |Windows Explorer                                  |6.2.9200.16628 |0     |Normal      |79     |                                                                |
+|6320|RAVBg64.exe                 |                                                  |               |0     |Normal      |5      |                                                                |
+|6560|acrotray.exe                |AcroTray                                          |6.0.1.1333     |0     |Normal      |2      |C:\Program Files (x86)\Adobe\Acrobat 7.0\Distillr               |
+|6588|RtkNGUI64.exe               |                                                  |               |0     |Normal      |10     |                                                                |
+|6600|utilMegaBrowse.exe          |                                                  |               |0     |Normal      |17     |                                                                |
+|6732|SynTPEnh.exe                |                                                  |               |0     |Above-Normal|8      |                                                                |
+|6760|Adobe CEF Helper.exe        |Adobe CEF Helper                                  |2.4.1.351      |0     |Normal      |5      |C:\Program Files (x86)\Adobe\Adobe Creative Cloud\HEX           |
+|7016|IELowutil.exe               |Internet Low-Mic Utility Tool                     |10.0.9200.16384|0     |Below-Normal|2      |C:\Program Files (x86)\Internet Explorer                        |
+|7080|TextAloudMP3.exe            |                                                  |3.0.44.0       |0     |Normal      |4      |C:\Users\hp-pc\Desktop\OT\VirtualMouse\TextAloud                |
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Assembler Information:
+----------------------------------------------------------------
+0051F284  pop     ebp
+0051F285  ret     $10
+0051F287  add     [ebx-$75], dl
+0051F28A  fcom    dword ptr [ebx+$6A]
+0051F28D  add     [ebx], dh
+0051F28F  leave
+0051F290  mov     dl, $01
+0051F292  mov     eax, dword ptr [EOleSysError]
+0051F297  call    -$0000017C
+0051F29C  call    -$0011A801                     ; <-- EXCEPTION
+0051F2A1  pop     ebx
+0051F2A2  ret
+
+Registers:
+-----------------------------
+EAX: 027B2018   EDI: 00000000
+EBX: 8002801C   ESI: 02851EC0
+ECX: 00000000   ESP: 0018FEBC
+EDX: 0051F2A1   EIP: 0051F29C
+
+Stack:               Memory Dump:
+------------------   ---------------------------------------------------------------------------
+0018FEBC: 8002801C 02849BAC: E8 FF 57 EE FF 5B C3 90 53 8B D8 8B C3 E8 EA F3  ..W..[..S.......
+0018FEC0: 0051F2B9 02849BBC: EF FF 84 C0 75 07 8B C3 E8 CF FF FF FF 5B C3 90  ....u........[..
+0018FEC4: 027B1F90 02849BCC: 55 8B EC 6A 00 53 56 8B F2 8B D8 33 C0 55 68 09  U..j.SV....3.Uh.
+0018FEC8: 005BF648 02849BDC: F3 51 00 64 FF 30 64 89 20 56 8D 45 FC 8B D3 E8  .Q.d.0d. V.E....
+0018FECC: 0018FEF4 02849BEC: FC 67 EE FF 8B 45 FC E8 70 68 EE FF 50 E8 7A F2  .g...E..ph..P.z.
+0018FED0: 005BF673 02849BFC: EF FF E8 B1 FF FF FF 33 C0 5A 59 59 64 89 10 68  .......3.ZYYd..h
+0018FED4: 0018FEEC 02849C0C: 10 F3 51 00 8D 45 FC E8 F0 65 EE FF C3 E9 96 56  ..Q..E...e.....V
+0018FED8: 00000001 02849C1C: EE FF EB F0 5E 5B 59 5D C3 8D 40 00 53 56 51 8B  ....^[Y]..@.SVQ.
+0018FEDC: 027B1FE0 02849C2C: F2 8B D8 54 53 E8 3A F2 EF FF E8 79 FF FF FF 8B  ...TS.:....y....
+0018FEE0: 01147734 02849C3C: C6 8B 14 24 E8 27 60 EE FF 8B 04 24 50 E8 52 F2  ...$.'`....$P.R.
+0018FEE4: 011491C4 02849C4C: EF FF 5A 5E 5B C3 8B C0 55 8B EC 6A 00 53 56 8B  ..Z^[...U..j.SV.
+0018FEE8: 0114D410 02849C5C: F2 8B D8 33 C0 55 68 91 F3 51 00 64 FF 30 64 89  ...3.Uh..Q.d.0d.
+0018FEEC: 0018FF0C 02849C6C: 20 56 8D 45 FC 8B D3 E8 74 67 EE FF 8B 45 FC E8   V.E....tg...E..
+0018FEF0: 005BFCEA 02849C7C: E8 67 EE FF 50 E8 02 F2 EF FF E8 29 FF FF FF 33  .g..P......)...3
+0018FEF4: 0018FF14 02849C8C: C0 5A 59 59 64 89 10 68 98 F3 51 00 8D 45 FC E8  .ZYYd..h..Q..E..
+0018FEF8: 005BFD1F 02849C9C: 68 65 EE FF C3 E9 0E 56 EE FF EB F0 5E 5B 59 5D  he.....V....^[Y]
+
+
+
